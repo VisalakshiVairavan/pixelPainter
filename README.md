@@ -1,4 +1,4 @@
-# pixelPainter
+# PixelPainter
 A paint application in console.
 
 
